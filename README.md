@@ -1,1 +1,1 @@
-Java OOP kullanarrak yaptığım macera oyunu
+Java OOP kullanarak yaptığım macera oyunu
